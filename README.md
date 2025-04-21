@@ -35,5 +35,3 @@ Welcome to the repository for the **Customer Churn** project. This machine learn
   - F1 Score: 0.54
 
 ---
-
-## 🧪 Project Structure
